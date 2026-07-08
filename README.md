@@ -20,12 +20,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0049-group-anagrams/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
