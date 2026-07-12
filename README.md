@@ -14,6 +14,7 @@
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
 | [0383-ransom-note](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@
 | [0020-valid-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
