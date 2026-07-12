@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0383-ransom-note](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0496-next-greater-element-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -31,6 +33,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
+| [0496-next-greater-element-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
@@ -46,6 +49,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
