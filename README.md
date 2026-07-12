@@ -68,4 +68,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
