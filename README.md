@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
+| [0495-teemo-attacking](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -50,6 +51,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
