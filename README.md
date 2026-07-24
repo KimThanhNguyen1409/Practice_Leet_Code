@@ -32,6 +32,7 @@
 | [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [2126-destroying-asteroids](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -94,4 +96,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 <!---LeetCode Topics End-->
