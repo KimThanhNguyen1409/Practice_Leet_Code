@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
 | [0383-ransom-note](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0796-rotate-string](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -95,9 +96,14 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 <!---LeetCode Topics End-->
