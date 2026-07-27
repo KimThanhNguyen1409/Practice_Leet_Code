@@ -40,6 +40,7 @@
 | [0049-group-anagrams](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +108,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
