@@ -43,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
 | [0389-find-the-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0539-minimum-time-difference/) | Medium |
@@ -108,6 +110,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
