@@ -149,4 +149,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0389-find-the-difference/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
