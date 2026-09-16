@@ -4,11 +4,11 @@ public:
         unordered_map<string, vector<string>> MyMap;
         vector<vector<string>> ans;
         for(int i = 0; i < strs.size(); i++){
-            string c = strs[i];
+            string s = strs[i];
             sort(strs[i].begin(), strs[i].end());
-            MyMap[strs[i]].push_back(c);
+            MyMap[strs[i]].push_back(s);
         }
-        for(const auto &[key, value] : MyMap){
+        for(auto const &[key, value] : MyMap){
             ans.push_back(value);
         }
         return ans;
