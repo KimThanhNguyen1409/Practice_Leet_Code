@@ -27,6 +27,7 @@
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2126-destroying-asteroids](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Sorting
