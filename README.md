@@ -28,6 +28,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | ------- | ------- |
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2126-destroying-asteroids](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
