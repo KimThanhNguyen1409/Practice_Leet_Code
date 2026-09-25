@@ -108,6 +108,7 @@
 | [0069-sqrtx](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@
 | [0088-merge-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +182,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0069-sqrtx/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 <!---LeetCode Topics End-->
