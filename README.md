@@ -61,6 +61,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -108,6 +109,7 @@
 | [0069-sqrtx](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
