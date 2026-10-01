@@ -22,7 +22,7 @@ public:
                 ans.push_back({x, y});
                 x++;
                 y--;
-            }else if( val > z){
+            }else if(val > z){
                 y--;
             }else{
                 x++;
