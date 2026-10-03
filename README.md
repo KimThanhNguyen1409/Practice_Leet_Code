@@ -159,6 +159,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0841-keys-and-rooms](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
@@ -192,9 +193,18 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0841-keys-and-rooms](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
