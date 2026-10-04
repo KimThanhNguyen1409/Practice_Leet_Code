@@ -197,6 +197,7 @@
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0841-keys-and-rooms](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,8 +206,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 <!---LeetCode Topics End-->
