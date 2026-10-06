@@ -164,6 +164,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
@@ -200,11 +201,13 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -220,4 +223,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
