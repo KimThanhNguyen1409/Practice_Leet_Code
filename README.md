@@ -54,6 +54,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
+| [0200-number-of-islands](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -161,12 +162,14 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0841-keys-and-rooms](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -195,6 +198,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0841-keys-and-rooms](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -212,4 +216,8 @@
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
