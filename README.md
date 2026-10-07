@@ -180,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
