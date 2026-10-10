@@ -70,6 +70,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2126-destroying-asteroids](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@
 | [0389-find-the-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [2126-destroying-asteroids](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2126-destroying-asteroids](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +116,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,4 +237,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
