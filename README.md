@@ -106,6 +106,7 @@
 | [2126-destroying-asteroids](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -161,6 +162,7 @@
 | [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
