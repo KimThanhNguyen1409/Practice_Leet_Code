@@ -71,6 +71,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2126-destroying-asteroids](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -169,6 +170,7 @@
 | [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -207,10 +209,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,16 +241,19 @@
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,4 +276,20 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
