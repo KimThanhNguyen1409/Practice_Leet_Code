@@ -33,6 +33,7 @@
 | [1370-increasing-decreasing-string](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [2409-count-days-spent-together](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
