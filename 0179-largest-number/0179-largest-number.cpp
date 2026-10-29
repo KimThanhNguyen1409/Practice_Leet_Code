@@ -9,12 +9,12 @@ public:
             str.push_back(to_string(nums[i]));
         }
         sort(str.begin(), str.end(), compare);
+        string ans = "";
         if(str[0] == "0")
             return "0";
-        string final_ans = "";
         for(int i = 0; i < str.size(); i++){
-            final_ans += str[i];
+            ans += str[i];
         }
-        return final_ans;
+        return ans;
     }
 };
