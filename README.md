@@ -31,6 +31,7 @@
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2409-count-days-spent-together](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2409-count-days-spent-together/) | Easy |
@@ -50,6 +51,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1544-make-the-string-great](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1544-make-the-string-great/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
