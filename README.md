@@ -71,6 +71,7 @@
 | [0739-daily-temperatures](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -95,6 +96,7 @@
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
 | [0389-find-the-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0539-minimum-time-difference/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -165,6 +167,7 @@
 | [0088-merge-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Design
 | Problem Name | Difficulty |
