@@ -63,6 +63,7 @@
 | [0179-largest-number](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0179-largest-number/) | Medium |
 | [0200-number-of-islands](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0495-teemo-attacking](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0539-minimum-time-difference/) | Medium |
@@ -178,6 +179,7 @@
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
