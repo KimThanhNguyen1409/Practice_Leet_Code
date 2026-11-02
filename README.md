@@ -9,6 +9,7 @@
 | [0383-ransom-note](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -30,6 +31,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -39,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0383-ransom-note/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
