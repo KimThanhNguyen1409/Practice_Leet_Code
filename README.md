@@ -140,6 +140,7 @@
 | ------- | ------- |
 | [0949-largest-time-for-given-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2409-count-days-spent-together/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Sliding Window
