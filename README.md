@@ -90,6 +90,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -204,10 +205,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
