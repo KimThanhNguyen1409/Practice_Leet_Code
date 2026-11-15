@@ -80,6 +80,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -194,6 +195,7 @@
 | [0556-next-greater-element-iii](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -210,6 +212,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -243,6 +246,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Newton's Method
 | Problem Name | Difficulty |
