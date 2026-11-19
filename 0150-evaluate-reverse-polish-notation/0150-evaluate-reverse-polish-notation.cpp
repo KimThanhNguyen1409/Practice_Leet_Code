@@ -8,12 +8,12 @@ public:
                 st.pop();
                 int op2 = st.top();
                 st.pop();
-                int result = 0;
-                if(token == "+") result = op2 + op1;
-                else if(token == "-") result = op2 - op1;
-                else if(token == "*") result = op2 * op1;
-                else if(token == "/") result = op2 / op1;
-                st.push(result);
+                int ans = 0;
+                if(token == "+") ans = op2 + op1;
+                else if(token == "-") ans = op2 - op1;
+                else if(token == "*") ans = op2 * op1;
+                else if(token == "/") ans = op2 / op1;
+                st.push(ans);
             }else{
                 st.push(stoi(token));
             }
