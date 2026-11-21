@@ -94,6 +94,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Sorting
@@ -232,6 +233,7 @@
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
