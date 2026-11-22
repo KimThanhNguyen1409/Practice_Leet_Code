@@ -36,6 +36,7 @@
 | [1544-make-the-string-great](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/KimThanhNguyen-hcmus/PracticeLeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
